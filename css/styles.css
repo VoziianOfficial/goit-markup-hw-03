@@ -210,6 +210,10 @@ padding-right: 8px;
   gap: 48px 24px;
 }
 
+.portfolio-link{
+  width: calc((100% - 2 * 24) / 3);
+}
+
 .portfolio-text-wrap{
 display: flex;
 align-items: flex-start;

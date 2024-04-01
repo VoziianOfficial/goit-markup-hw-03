@@ -70,6 +70,11 @@ img {
   font-family: "Raleway", sans-serif;
 }
 
+.logo-header{
+  padding-top: 24px;
+  padding-bottom: 24px;
+}
+
 .nav-list {
   display: flex;
   gap: 40px;

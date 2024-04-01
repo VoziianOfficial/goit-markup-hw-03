@@ -93,6 +93,11 @@ img {
   padding-bottom: 24px;
 }
 
+.nav-link-header{
+  padding-top: 24px;
+  padding-bottom: 24px;
+}
+
 .address {
   display: block;
   margin-left: auto;

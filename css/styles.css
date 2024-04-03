@@ -81,7 +81,6 @@ img {
 }
 
 .nav-link {
-  color: #2e2f42;
   font-size: 16px;
   line-height: 1.5;
   font-weight: 500;
@@ -91,12 +90,9 @@ img {
   display: block;
   padding-top: 24px;
   padding-bottom: 24px;
+  color: #2e2f42;
 }
 
-.nav-link-header{
-  padding-top: 24px;
-  padding-bottom: 24px;
-}
 
 .address {
   display: block;
@@ -185,13 +181,8 @@ img {
   background-color: #f4f4fd;
   padding-top: 120px;
   padding-bottom: 120px;
-  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
 }
 
-.team-container {
-  padding-top: 32px;
-  padding-bottom: 32px;
-}
 
 .team-text{
   text-align: center;
@@ -287,14 +278,6 @@ img {
   padding: 100px 0;
 }
 
-.footer-container {
-  display: block;
-}
-
-.footer-text {
-  margin-top: 16px;
-  width: 264px;
-}
 
 .logo-footer-studio {
   font-size: 18px;
@@ -306,9 +289,10 @@ img {
   text-transform: uppercase;
 }
 
-.logo-footer {
+.logo {
   display: inline-block;
   margin-bottom: 16px;
+  
 }
 
 .footer-text {
@@ -316,6 +300,7 @@ img {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;
+  width: 264px;
 }
 
 .visually-hidden {

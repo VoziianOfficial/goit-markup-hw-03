@@ -70,11 +70,6 @@ img {
   font-family: "Raleway", sans-serif;
 }
 
-.logo-header{
-  padding-top: 24px;
-  padding-bottom: 24px;
-}
-
 .nav-list {
   display: flex;
   gap: 40px;
@@ -289,10 +284,9 @@ img {
   text-transform: uppercase;
 }
 
-.logo {
+.logo-footer{
   display: inline-block;
   margin-bottom: 16px;
-  
 }
 
 .footer-text {
